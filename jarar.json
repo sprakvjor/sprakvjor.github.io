@@ -1,1106 +1,1114 @@
 [
   {
-    "symbol" : "",
-    "unicode" : 57488,
-    "ubersetzung" : "Vjor",
-    "transkriptionlatein" : "vjór",
     "anmerkung" : "das Volk hinter der Sprache",
+    "unicode" : 57488,
+    "symbol" : "",
+    "transkriptionlatein" : "vjór",
+    "ubersetzung" : "Vjor",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57489,
-    "ubersetzung" : "Verb",
-    "transkriptionlatein" : "a",
     "anmerkung" : "Suffix",
+    "unicode" : 57489,
+    "symbol" : "",
+    "transkriptionlatein" : "a",
+    "ubersetzung" : "Verb",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57490,
-    "ubersetzung" : "Adjektiv",
-    "transkriptionlatein" : "o",
     "anmerkung" : "Suffix",
+    "unicode" : 57490,
+    "symbol" : "",
+    "transkriptionlatein" : "o",
+    "ubersetzung" : "Adjektiv",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57491,
-    "ubersetzung" : "abstraktes Nomen",
-    "transkriptionlatein" : "e",
     "anmerkung" : "Suffix",
+    "unicode" : 57491,
+    "symbol" : "",
+    "transkriptionlatein" : "e",
+    "ubersetzung" : "abstraktes Nomen",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57492,
-    "ubersetzung" : "ja",
-    "transkriptionlatein" : "v",
     "anmerkung" : "",
+    "unicode" : 57492,
+    "symbol" : "",
+    "transkriptionlatein" : "v",
+    "ubersetzung" : "ja",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57493,
-    "ubersetzung" : "nein\/nicht",
-    "transkriptionlatein" : "k",
     "anmerkung" : "",
+    "unicode" : 57493,
+    "symbol" : "",
+    "transkriptionlatein" : "k",
+    "ubersetzung" : "nein\/nicht",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57494,
-    "ubersetzung" : "und",
-    "transkriptionlatein" : "é",
     "anmerkung" : "",
+    "unicode" : 57494,
+    "symbol" : "",
+    "transkriptionlatein" : "é",
+    "ubersetzung" : "und",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57495,
-    "ubersetzung" : "oder",
-    "transkriptionlatein" : "el",
     "anmerkung" : "",
+    "unicode" : 57495,
+    "symbol" : "",
+    "transkriptionlatein" : "el",
+    "ubersetzung" : "oder",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57496,
-    "ubersetzung" : "aber",
-    "transkriptionlatein" : "men",
     "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57496,
+    "symbol" : "",
+    "transkriptionlatein" : "men",
+    "ubersetzung" : "aber",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
-    "unicode" : 57497,
-    "ubersetzung" : "",
-    "transkriptionlatein" : "ar",
     "anmerkung" : "Plural-Suffix",
+    "unicode" : 57497,
+    "symbol" : "",
+    "transkriptionlatein" : "ar",
+    "ubersetzung" : "",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57498,
-    "ubersetzung" : "links",
     "transkriptionlatein" : "læn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "links",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57499,
-    "ubersetzung" : "rechts",
     "transkriptionlatein" : "hæn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "rechts",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57500,
-    "ubersetzung" : "vorne",
     "transkriptionlatein" : "fræn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "vorne",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57501,
-    "ubersetzung" : "hinten",
     "transkriptionlatein" : "bræn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "hinten",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57502,
-    "ubersetzung" : "oben",
     "transkriptionlatein" : "óvæn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "oben",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57503,
-    "ubersetzung" : "unten",
     "transkriptionlatein" : "ávæn",
     "anmerkung" : "",
+    "symbol" : "",
+    "ubersetzung" : "unten",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
     "unicode" : 57504,
-    "ubersetzung" : "",
     "transkriptionlatein" : "lu",
     "anmerkung" : "grammatikalisches Bindeglied, verbindet die beiden umliegenden Einheiten miteinander zu einer Einheit",
+    "symbol" : "",
+    "ubersetzung" : "",
     "transkriptionjamn" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57505,
-    "ubersetzung" : "mit",
+    "symbol" : "",
     "transkriptionlatein" : "med",
-    "anmerkung" : "impliziert eine Unterordnung",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "mit",
+    "anmerkung" : "impliziert eine Unterordnung"
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57506,
-    "ubersetzung" : "+\/plus",
+    "symbol" : "",
     "transkriptionlatein" : "plus",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "+\/plus",
+    "anmerkung" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57507,
-    "ubersetzung" : "Wohlbefinden",
+    "symbol" : "",
     "transkriptionlatein" : "mår",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "Wohlbefinden",
+    "anmerkung" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57508,
-    "ubersetzung" : "sehr",
+    "symbol" : "",
     "transkriptionlatein" : "jæt",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "sehr",
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57509,
-    "ubersetzung" : "Schweden",
+    "symbol" : "",
     "transkriptionlatein" : "sverij",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "Schweden",
+    "anmerkung" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57510,
-    "ubersetzung" : "Schriftart",
+    "symbol" : "",
     "transkriptionlatein" : "tekst",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "Schriftart",
+    "anmerkung" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57511,
-    "ubersetzung" : "selbst\/sich\/eigen",
+    "symbol" : "",
     "transkriptionlatein" : "set",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "selbst\/sich\/eigen",
+    "anmerkung" : ""
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57512,
-    "ubersetzung" : "vielleicht",
+    "symbol" : "",
     "transkriptionlatein" : "kanš",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "vielleicht",
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
-    "symbol" : "",
+    "transkriptionjamn" : "",
     "unicode" : 57513,
-    "ubersetzung" : "",
+    "symbol" : "",
     "transkriptionlatein" : "",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
-  },
-  {
-    "symbol" : "",
-    "unicode" : 57514,
-    "ubersetzung" : "das\/dieses",
-    "transkriptionlatein" : "det",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
-  },
-  {
-    "symbol" : "",
-    "unicode" : 57515,
-    "ubersetzung" : "das hier\/jetzt",
-    "transkriptionlatein" : "het",
-    "anmerkung" : "",
-    "transkriptionjamn" : ""
-  },
-  {
-    "symbol" : "",
-    "unicode" : 57516,
-    "ubersetzung" : "was",
-    "transkriptionlatein" : "vár",
-    "anmerkung" : "allgemeines Fragewort",
-    "transkriptionjamn" : ""
-  },
-  {
-    "symbol" : "",
-    "unicode" : 57517,
     "ubersetzung" : "",
+    "anmerkung" : ""
+  },
+  {
+    "transkriptionjamn" : "",
+    "unicode" : 57514,
+    "symbol" : "",
+    "transkriptionlatein" : "det",
+    "ubersetzung" : "das\/dieses",
+    "anmerkung" : ""
+  },
+  {
+    "transkriptionjamn" : "",
+    "unicode" : 57515,
+    "symbol" : "",
+    "transkriptionlatein" : "het",
+    "ubersetzung" : "das hier\/jetzt",
+    "anmerkung" : ""
+  },
+  {
+    "transkriptionjamn" : "",
+    "unicode" : 57516,
+    "symbol" : "",
+    "transkriptionlatein" : "vár",
+    "ubersetzung" : "was",
+    "anmerkung" : "allgemeines Fragewort"
+  },
+  {
+    "transkriptionjamn" : "",
+    "unicode" : 57517,
+    "symbol" : "",
     "transkriptionlatein" : "h",
-    "anmerkung" : "binäres Fragewort",
-    "transkriptionjamn" : ""
+    "ubersetzung" : "",
+    "anmerkung" : "binäres Fragewort"
   },
   {
     "transkriptionjamn" : "",
-    "ubersetzung" : "welches",
     "unicode" : 57518,
     "symbol" : "",
     "transkriptionlatein" : "vilk",
+    "ubersetzung" : "welches",
     "anmerkung" : "selektives Fragewort"
   },
   {
     "transkriptionjamn" : "",
-    "ubersetzung" : "in",
     "unicode" : 57519,
     "symbol" : "",
     "transkriptionlatein" : "í",
+    "ubersetzung" : "in",
     "anmerkung" : ""
   },
   {
     "transkriptionjamn" : "",
-    "ubersetzung" : "bei",
     "unicode" : 57520,
     "symbol" : "",
     "transkriptionlatein" : "víd",
+    "ubersetzung" : "bei",
     "anmerkung" : ""
   },
   {
     "transkriptionjamn" : "",
-    "ubersetzung" : "nah",
     "unicode" : 57521,
     "symbol" : "",
     "transkriptionlatein" : "nǽr",
+    "ubersetzung" : "nah",
     "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57522,
+    "symbol" : "",
     "transkriptionlatein" : "",
     "ubersetzung" : "",
-    "anmerkung" : "",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : ""
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57523,
+    "symbol" : "",
     "transkriptionlatein" : "lå",
     "ubersetzung" : "",
-    "anmerkung" : "grammatikalische Klammer auf",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "grammatikalische Klammer auf"
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57524,
+    "symbol" : "",
     "transkriptionlatein" : "le",
     "ubersetzung" : "",
-    "anmerkung" : "grammatikalische Klammer zu",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "grammatikalische Klammer zu"
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57525,
+    "symbol" : "",
     "transkriptionlatein" : "šå",
     "ubersetzung" : "„",
-    "anmerkung" : "wie Anführungszeichen vorne",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "wie Anführungszeichen vorne"
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57526,
+    "symbol" : "",
     "transkriptionlatein" : "še",
     "ubersetzung" : "",
-    "anmerkung" : "wie Anführungszeichen hinten",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "wie Anführungszeichen hinten"
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57527,
+    "symbol" : "",
     "transkriptionlatein" : "em",
     "ubersetzung" : "ich",
-    "anmerkung" : "",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : ""
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57528,
+    "symbol" : "",
     "transkriptionlatein" : "to",
     "ubersetzung" : "du",
-    "anmerkung" : "",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : ""
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57529,
+    "symbol" : "",
     "transkriptionlatein" : "peš",
     "ubersetzung" : "Mensch\/Person",
-    "anmerkung" : "",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : ""
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57530,
+    "symbol" : "",
     "transkriptionlatein" : "nȧt",
     "ubersetzung" : "etwas",
-    "anmerkung" : "",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : ""
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57531,
+    "symbol" : "",
     "transkriptionlatein" : "jőr",
     "ubersetzung" : "Tat\/tun",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57532,
+    "symbol" : "",
     "transkriptionlatein" : "kom",
     "ubersetzung" : "sich wohin bewegen",
-    "anmerkung" : "allgemein, kann zu Fuß, mit einem Fahrzeug oder anders sein, meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "allgemein, kann zu Fuß, mit einem Fahrzeug oder anders sein, meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57533,
+    "symbol" : "",
     "transkriptionlatein" : "sæj",
     "ubersetzung" : "Aussage\/sagen",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57534,
+    "symbol" : "",
     "transkriptionlatein" : "prát",
     "ubersetzung" : "Gespräch\/reden",
-    "anmerkung" : "oft in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "oft in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57535,
+    "symbol" : "",
     "transkriptionlatein" : "hár",
     "ubersetzung" : "haben",
-    "anmerkung" : "oft in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "oft in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57536,
+    "symbol" : "",
     "transkriptionlatein" : "gå",
     "ubersetzung" : "gehen",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57537,
+    "symbol" : "",
     "transkriptionlatein" : "jé",
     "ubersetzung" : "geben",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57538,
+    "symbol" : "",
     "transkriptionlatein" : "t",
     "ubersetzung" : "nehmen",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57539,
+    "symbol" : "",
     "transkriptionlatein" : "sé",
     "ubersetzung" : "sehen",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
+    "transkriptionjamn" : "",
     "unicode" : 57540,
+    "symbol" : "",
     "transkriptionlatein" : "vét",
     "ubersetzung" : "Wissen\/wissen",
-    "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
-    "transkriptionjamn" : ""
+    "anmerkung" : "meistens in Verbindung mit "
   },
   {
-    "unicode" : 57541,
-    "transkriptionlatein" : "skáj",
+    "anmerkung" : "meistens in Verbindung mit ",
     "ubersetzung" : "sollen",
-    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57541,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "skáj"
   },
   {
-    "unicode" : 57542,
-    "transkriptionlatein" : "mȧst",
+    "anmerkung" : "oft in Verbindung mit ",
     "ubersetzung" : "Verpflichtung\/müssen",
-    "anmerkung" : "oft in Verbindung mit ",
+    "unicode" : 57542,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "mȧst"
   },
   {
-    "unicode" : 57543,
-    "transkriptionlatein" : "hőv",
+    "anmerkung" : "meistens in Verbindung mit ",
     "ubersetzung" : "brauchen",
-    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57543,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "hőv"
   },
   {
-    "unicode" : 57544,
-    "transkriptionlatein" : "kan",
-    "ubersetzung" : "Fähigkeiten\/können",
     "anmerkung" : "oft in Verbindung mit ",
+    "ubersetzung" : "Fähigkeiten\/können",
+    "unicode" : 57544,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "kan"
   },
   {
-    "unicode" : 57545,
-    "transkriptionlatein" : "måj",
+    "anmerkung" : "meistens in Verbindung mit ",
     "ubersetzung" : "dürfen",
-    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57545,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "måj"
   },
   {
-    "unicode" : 57546,
-    "transkriptionlatein" : "vilj",
+    "anmerkung" : "meistens in Verbindung mit ",
     "ubersetzung" : "Wille\/wollen",
-    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57546,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "vilj"
   },
   {
-    "unicode" : 57547,
-    "transkriptionlatein" : "hej",
-    "ubersetzung" : "hallo\/tschüss",
     "anmerkung" : "Begrüßung und Verabschiedung",
+    "ubersetzung" : "hallo\/tschüss",
+    "unicode" : 57547,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "hej"
   },
   {
-    "unicode" : 57548,
-    "transkriptionlatein" : "tak",
+    "anmerkung" : "",
     "ubersetzung" : "danke\/bitte",
-    "anmerkung" : "",
+    "unicode" : 57548,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "tak"
   },
   {
-    "unicode" : 57549,
-    "transkriptionlatein" : "fölåt",
+    "anmerkung" : "",
     "ubersetzung" : "Entschuldigung",
-    "anmerkung" : "",
+    "unicode" : 57549,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "fölåt"
   },
   {
-    "unicode" : 57550,
-    "transkriptionlatein" : "ušækt",
+    "anmerkung" : "",
     "ubersetzung" : "Verzeihung",
-    "anmerkung" : "",
+    "unicode" : 57550,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "ušækt"
   },
   {
-    "unicode" : 57551,
-    "transkriptionlatein" : "jil",
-    "ubersetzung" : "mögen",
     "anmerkung" : "meistens in Verbindung mit ",
+    "ubersetzung" : "mögen",
+    "unicode" : 57551,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "jil"
   },
   {
-    "unicode" : 57552,
-    "transkriptionlatein" : "væn",
+    "anmerkung" : "",
     "ubersetzung" : "Freund",
-    "anmerkung" : "",
+    "unicode" : 57552,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "væn"
   },
   {
-    "unicode" : 57553,
-    "transkriptionlatein" : "šǽr",
+    "anmerkung" : "",
     "ubersetzung" : "Liebespartner\/Liebe",
-    "anmerkung" : "",
+    "unicode" : 57553,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "šǽr"
   },
   {
-    "unicode" : 57554,
-    "transkriptionlatein" : "bíl",
+    "anmerkung" : "",
     "ubersetzung" : "Fahrzeug",
-    "anmerkung" : "",
+    "unicode" : 57554,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "bíl"
   },
   {
-    "unicode" : 57555,
-    "transkriptionlatein" : "nám",
+    "anmerkung" : "",
     "ubersetzung" : "Name",
-    "anmerkung" : "",
+    "unicode" : 57555,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "nám"
   },
   {
-    "unicode" : 57556,
-    "transkriptionlatein" : "morf",
+    "anmerkung" : "",
     "ubersetzung" : "Morphem",
-    "anmerkung" : "",
+    "unicode" : 57556,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "morf"
   },
   {
-    "unicode" : 57557,
-    "transkriptionlatein" : "órd",
+    "anmerkung" : "",
     "ubersetzung" : "Wort",
-    "anmerkung" : "",
+    "unicode" : 57557,
+    "transkriptionjamn" : "",
     "symbol" : "",
-    "transkriptionjamn" : ""
+    "transkriptionlatein" : "órd"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Satz",
     "unicode" : 57558,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "frás",
-    "ubersetzung" : "Satz"
+    "symbol" : "",
+    "transkriptionlatein" : "frás"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Besitz",
     "unicode" : 57559,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "ǽg",
-    "ubersetzung" : "Besitz"
+    "symbol" : "",
+    "transkriptionlatein" : "ǽg"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Haus",
     "unicode" : 57560,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "hús",
-    "ubersetzung" : "Haus"
+    "symbol" : "",
+    "transkriptionlatein" : "hús"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Baum",
     "unicode" : 57561,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "træd",
-    "ubersetzung" : "Baum"
+    "symbol" : "",
+    "transkriptionlatein" : "træd"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Herz",
     "unicode" : 57562,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "jært",
-    "ubersetzung" : "Herz"
+    "symbol" : "",
+    "transkriptionlatein" : "jært"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Kalendertag",
     "unicode" : 57563,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "dyŋ",
-    "ubersetzung" : "Kalendertag"
+    "symbol" : "",
+    "transkriptionlatein" : "dyŋ"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Tag\/tagsüber",
     "unicode" : 57564,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "dág",
-    "ubersetzung" : "Tag\/tagsüber"
+    "symbol" : "",
+    "transkriptionlatein" : "dág"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Nacht",
     "unicode" : 57565,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "nat",
-    "ubersetzung" : "Nacht"
+    "symbol" : "",
+    "transkriptionlatein" : "nat"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "",
     "unicode" : 57566,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "",
-    "ubersetzung" : ""
+    "symbol" : "",
+    "transkriptionlatein" : ""
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "",
     "unicode" : 57567,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "",
-    "ubersetzung" : ""
+    "symbol" : "",
+    "transkriptionlatein" : ""
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Zeit",
     "unicode" : 57568,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "tíd",
-    "ubersetzung" : "Zeit"
+    "symbol" : "",
+    "transkriptionlatein" : "tíd"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Kind",
     "unicode" : 57569,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "bárn",
-    "ubersetzung" : "Kind"
+    "symbol" : "",
+    "transkriptionlatein" : "bárn"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Mama\/Mutter",
     "unicode" : 57570,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "mami",
-    "ubersetzung" : "Mama\/Mutter"
+    "symbol" : "",
+    "transkriptionlatein" : "mami"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Papa\/Vater",
     "unicode" : 57571,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "papi",
-    "ubersetzung" : "Papa\/Vater"
+    "symbol" : "",
+    "transkriptionlatein" : "papi"
   },
   {
     "anmerkung" : "",
-    "symbol" : "",
+    "ubersetzung" : "Geschwister",
     "unicode" : 57572,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "sysk",
-    "ubersetzung" : "Geschwister"
+    "symbol" : "",
+    "transkriptionlatein" : "sysk"
   },
   {
     "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
+    "ubersetzung" : "weiblich",
     "unicode" : 57573,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "m",
-    "ubersetzung" : "weiblich"
+    "symbol" : "",
+    "transkriptionlatein" : "m"
   },
   {
     "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
+    "ubersetzung" : "männlich",
     "unicode" : 57574,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "p",
-    "ubersetzung" : "männlich"
+    "symbol" : "",
+    "transkriptionlatein" : "p"
   },
   {
     "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
+    "ubersetzung" : "Menge\/viel",
     "unicode" : 57575,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "myk",
-    "ubersetzung" : "Menge\/viel"
+    "symbol" : "",
+    "transkriptionlatein" : "myk"
   },
   {
     "anmerkung" : "meistens in Verbindung mit ",
-    "symbol" : "",
+    "ubersetzung" : "Größe\/groß",
     "unicode" : 57576,
     "transkriptionjamn" : "",
-    "transkriptionlatein" : "stór",
-    "ubersetzung" : "Größe\/groß"
+    "symbol" : "",
+    "transkriptionlatein" : "stór"
   },
   {
-    "anmerkung" : "meistens in Verbindung mit ",
     "symbol" : "",
-    "unicode" : 57577,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "br",
-    "ubersetzung" : "gut"
+    "ubersetzung" : "gut",
+    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57577
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57578,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "plats",
-    "ubersetzung" : "Ort"
+    "ubersetzung" : "Ort",
+    "anmerkung" : "",
+    "unicode" : 57578
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57579,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "ŝæl",
-    "ubersetzung" : "Grund\/Ursache"
+    "ubersetzung" : "Grund\/Ursache",
+    "anmerkung" : "",
+    "unicode" : 57579
   },
   {
-    "anmerkung" : "meistens in Verbindung mit ",
     "symbol" : "",
-    "unicode" : 57580,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "sen",
-    "ubersetzung" : "Zukunft\/später"
+    "ubersetzung" : "Zukunft\/später",
+    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57580
   },
   {
-    "anmerkung" : "meistens in Verbindung mit ",
     "symbol" : "",
-    "unicode" : 57581,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "för",
-    "ubersetzung" : "Vergangenheit\/früher"
+    "ubersetzung" : "Vergangenheit\/früher",
+    "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57581
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57582,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "ælj",
-    "ubersetzung" : "Elch"
+    "ubersetzung" : "Elch",
+    "anmerkung" : "",
+    "unicode" : 57582
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57583,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "rǽv",
-    "ubersetzung" : "Fuchs"
+    "ubersetzung" : "Fuchs",
+    "anmerkung" : "",
+    "unicode" : 57583
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57584,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "björn",
-    "ubersetzung" : "Bär"
+    "ubersetzung" : "Bär",
+    "anmerkung" : "",
+    "unicode" : 57584
   },
   {
-    "anmerkung" : "Baum",
     "symbol" : "",
-    "unicode" : 57585,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "tal",
-    "ubersetzung" : "Kiefer"
+    "ubersetzung" : "Kiefer",
+    "anmerkung" : "Baum",
+    "unicode" : 57585
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57586,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "björk",
-    "ubersetzung" : "Birke"
+    "ubersetzung" : "Birke",
+    "anmerkung" : "",
+    "unicode" : 57586
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57587,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "gran",
-    "ubersetzung" : "Fichte"
+    "ubersetzung" : "Fichte",
+    "anmerkung" : "",
+    "unicode" : 57587
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57588,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "ren",
-    "ubersetzung" : "Rentier"
+    "ubersetzung" : "Rentier",
+    "anmerkung" : "",
+    "unicode" : 57588
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57589,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "jort",
-    "ubersetzung" : "Hirsch"
+    "ubersetzung" : "Hirsch",
+    "anmerkung" : "",
+    "unicode" : 57589
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57590,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "varj",
-    "ubersetzung" : "Wolf"
+    "ubersetzung" : "Wolf",
+    "anmerkung" : "",
+    "unicode" : 57590
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57591,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "språk",
-    "ubersetzung" : "Sprache"
+    "ubersetzung" : "Sprache",
+    "anmerkung" : "",
+    "unicode" : 57591
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57592,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "stád",
-    "ubersetzung" : "Stadt"
+    "ubersetzung" : "Stadt",
+    "anmerkung" : "",
+    "unicode" : 57592
   },
   {
-    "anmerkung" : "",
     "symbol" : "",
-    "unicode" : 57593,
     "transkriptionjamn" : "",
     "transkriptionlatein" : "léd",
-    "ubersetzung" : "Führung"
+    "ubersetzung" : "Führung",
+    "anmerkung" : "",
+    "unicode" : 57593
   },
   {
-    "unicode" : 57594,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "oks",
     "ubersetzung" : "auch",
     "anmerkung" : "meistens in Verbindung mit ",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57594
   },
   {
-    "unicode" : 57595,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "jar",
     "ubersetzung" : "Jar",
     "anmerkung" : "logographische Schrift",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57595
   },
   {
-    "unicode" : 57596,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "jæmn",
     "ubersetzung" : "Jæmn",
     "anmerkung" : "phonographische Schrift, für Namen",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57596
   },
   {
-    "unicode" : 57597,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "jæl",
     "ubersetzung" : "Jæl",
     "anmerkung" : "alte phonographische Schrift",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57597
   },
   {
-    "unicode" : 57598,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "latín",
     "ubersetzung" : "Latein",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57598
   },
   {
-    "unicode" : 57599,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "neg",
     "ubersetzung" : "negativ",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57599
   },
   {
-    "unicode" : 57600,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "nol",
     "ubersetzung" : "0",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57600
   },
   {
-    "unicode" : 57601,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "et",
     "ubersetzung" : "1",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57601
   },
   {
-    "unicode" : 57602,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "tȧv",
     "ubersetzung" : "2",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57602
   },
   {
-    "unicode" : 57603,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "ter",
     "ubersetzung" : "3",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57603
   },
   {
-    "unicode" : 57604,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "fyr",
     "ubersetzung" : "4",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57604
   },
   {
-    "unicode" : 57605,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "fem",
     "ubersetzung" : "5",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57605
   },
   {
-    "unicode" : 57606,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "sek",
     "ubersetzung" : "6",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57606
   },
   {
-    "unicode" : 57607,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "ŝu",
     "ubersetzung" : "7",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57607
   },
   {
-    "unicode" : 57608,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "ȧt",
     "ubersetzung" : "8",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57608
   },
   {
-    "unicode" : 57609,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "ni",
     "ubersetzung" : "9",
     "anmerkung" : "",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57609
   },
   {
-    "unicode" : 57610,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "ti",
     "ubersetzung" : "A",
     "anmerkung" : "10",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57610
   },
   {
-    "unicode" : 57611,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "il",
     "ubersetzung" : "B",
     "anmerkung" : "11",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57611
   },
   {
-    "unicode" : 57612,
+    "symbol" : "",
+    "transkriptionjamn" : "",
     "transkriptionlatein" : "tol",
     "ubersetzung" : "C",
     "anmerkung" : "12",
-    "transkriptionjamn" : "",
-    "symbol" : ""
+    "unicode" : 57612
   },
   {
-    "unicode" : 57613,
-    "transkriptionlatein" : "ŝet",
     "ubersetzung" : "D",
     "anmerkung" : "13",
+    "unicode" : 57613,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "ŝet"
   },
   {
-    "unicode" : 57614,
-    "transkriptionlatein" : "fju",
     "ubersetzung" : "E",
     "anmerkung" : "14",
+    "unicode" : 57614,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "fju"
   },
   {
-    "unicode" : 57615,
-    "transkriptionlatein" : "nȧv",
     "ubersetzung" : "F",
     "anmerkung" : "15",
+    "unicode" : 57615,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "nȧv"
   },
   {
-    "unicode" : 57616,
-    "transkriptionlatein" : "köm",
     "ubersetzung" : ",",
     "anmerkung" : "Komma",
+    "unicode" : 57616,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "köm"
   },
   {
-    "unicode" : 57617,
-    "transkriptionlatein" : "kort",
     "ubersetzung" : "Karte",
     "anmerkung" : "",
+    "unicode" : 57617,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "kort"
   },
   {
-    "unicode" : 57618,
-    "transkriptionlatein" : "indivíd",
     "ubersetzung" : "Individuum",
     "anmerkung" : "",
+    "unicode" : 57618,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "indivíd"
   },
   {
-    "unicode" : 57619,
-    "transkriptionlatein" : "famílj",
     "ubersetzung" : "Familie",
     "anmerkung" : "",
+    "unicode" : 57619,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "famílj"
   },
   {
-    "unicode" : 57620,
-    "transkriptionlatein" : "år",
     "ubersetzung" : "Jahr",
     "anmerkung" : "",
+    "unicode" : 57620,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "år"
   },
   {
-    "unicode" : 57621,
-    "transkriptionlatein" : "land",
     "ubersetzung" : "Land",
     "anmerkung" : "",
+    "unicode" : 57621,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "land"
   },
   {
-    "unicode" : 57622,
-    "transkriptionlatein" : "fóg",
     "ubersetzung" : "Einführung",
     "anmerkung" : "",
+    "unicode" : 57622,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "fóg"
   },
   {
-    "unicode" : 57623,
-    "transkriptionlatein" : "ný",
     "ubersetzung" : "neu",
     "anmerkung" : "meistens in Verbindung mit ",
+    "unicode" : 57623,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "ný"
   },
   {
-    "unicode" : 57624,
-    "transkriptionlatein" : "lét",
     "ubersetzung" : "Suche",
     "anmerkung" : "",
+    "unicode" : 57624,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "lét"
   },
   {
-    "unicode" : 57625,
-    "transkriptionlatein" : "vejk",
     "ubersetzung" : "Abbruch",
     "anmerkung" : "kann für Abbruch, Rückzug und canceln allgemein verwendet werden",
+    "unicode" : 57625,
     "transkriptionjamn" : "",
-    "symbol" : ""
+    "symbol" : "",
+    "transkriptionlatein" : "vejk"
+  },
+  {
+    "ubersetzung" : "test",
+    "anmerkung" : "test",
+    "unicode" : 57626,
+    "transkriptionjamn" : "",
+    "symbol" : "",
+    "transkriptionlatein" : "test"
   }
 ]
