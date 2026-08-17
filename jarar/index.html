@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Jarar – Språkvjór</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1400px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f5f5f5;
+      color: #222;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .table-container {
+      overflow-x: auto;
+      background: white;
+      border-radius: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #ddd;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #eee;
+      position: sticky;
+      top: 0;
+    }
+
+    tbody tr:hover {
+      background: #f7f7f7;
+    }
+
+    .symbol {
+      font-size: 2rem;
+      white-space: nowrap;
+    }
+
+    .unicode {
+      font-family: monospace;
+      white-space: nowrap;
+    }
+
+    #status {
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Jarar</h1>
+
+  <p id="status">Lade Daten …</p>
+
+  <div class="table-container">
+    <table id="jarar-table" hidden>
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Unicode</th>
+          <th>Transkription Jämn</th>
+          <th>Transkription Latein</th>
+          <th>Übersetzung</th>
+          <th>Anmerkung</th>
+        </tr>
+      </thead>
+
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script>
+    async function ladeJarar() {
+      const status = document.getElementById("status");
+      const table = document.getElementById("jarar-table");
+      const tbody = table.querySelector("tbody");
+
+      try {
+        const response = await fetch("/jarar.json");
+
+        if (!response.ok) {
+          throw new Error(
+            `HTTP-Fehler ${response.status}`
+          );
+        }
+
+        const daten = await response.json();
+
+        for (const eintrag of daten) {
+          const tr = document.createElement("tr");
+
+          const unicodeHex =
+            "U+" +
+            eintrag.unicode
+              .toString(16)
+              .toUpperCase()
+              .padStart(4, "0");
+
+          tr.innerHTML = `
+            <td class="symbol">${escapeHTML(eintrag.symbol)}</td>
+            <td class="unicode">
+              ${eintrag.unicode}<br>
+              ${unicodeHex}
+            </td>
+            <td>${escapeHTML(eintrag.transkriptionjamn)}</td>
+            <td>${escapeHTML(eintrag.transkriptionlatein)}</td>
+            <td>${escapeHTML(eintrag.ubersetzung)}</td>
+            <td>${escapeHTML(eintrag.anmerkung)}</td>
+          `;
+
+          tbody.appendChild(tr);
+        }
+
+        status.textContent = `${daten.length} Einträge`;
+        table.hidden = false;
+
+      } catch (error) {
+        console.error(error);
+
+        status.textContent =
+          "Die Daten konnten nicht geladen werden.";
+      }
+    }
+
+    function escapeHTML(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    ladeJarar();
+  </script>
+
+</body>
+</html>
