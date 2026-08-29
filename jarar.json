@@ -36,7 +36,7 @@
   "unicode": 57492,
   "transcriptionJamn": "",
   "transcriptionLatein": "v",
-  "translation": "ja",
+  "translation": "ja/richtig",
   "annotation": ""
 },
 {
@@ -202,10 +202,10 @@
 {
   "symbol": "",
   "unicode": 57513,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "",
-  "translation": "",
-  "annotation": ""
+  "transcriptionJamn": "",
+  "transcriptionLatein": "ð",
+  "translation": "Gegenteil",
+  "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
@@ -1034,25 +1034,25 @@
 {
   "symbol": "",
   "unicode": 57617,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "kort",
-  "translation": "Karte",
-  "annotation": ""
+  "transcriptionJamn": "",
+  "transcriptionLatein": "ŋi",
+  "translation": "",
+  "annotation": "gibt an, wie oft die vorige Ziffer wiederholt wird"
 },
 {
   "symbol": "",
   "unicode": 57618,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "indivíd",
-  "translation": "Individuum",
+  "transcriptionJamn": "",
+  "transcriptionLatein": "num",
+  "translation": "Nummer",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57619,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "famílj",
-  "translation": "Familie",
+  "transcriptionJamn": "",
+  "transcriptionLatein": "ðöjf",
+  "translation": "unendlich",
   "annotation": ""
 },
 {
@@ -1102,5 +1102,29 @@
   "transcriptionLatein": "vejk",
   "translation": "Abbruch",
   "annotation": "kann für Abbruch, Rückzug und canceln allgemein verwendet werden"
+},
+{
+  "symbol": "",
+  "unicode": 57626,
+  "transcriptionJamn": "",
+  "transcriptionLatein": "kort",
+  "translation": "Karte",
+  "annotation": ""
+},
+{
+  "symbol": "",
+  "unicode": 57627,
+  "transcriptionJamn": "",
+  "transcriptionLatein": "indivíd",
+  "translation": "Individuum",
+  "annotation": ""
+},
+{
+  "symbol": "",
+  "unicode": 57628,
+  "transcriptionJamn": "",
+  "transcriptionLatein": "famílj",
+  "translation": "Familie",
+  "annotation": ""
 }
 ]
