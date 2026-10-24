@@ -2,1136 +2,1136 @@
 {
   "symbol": "",
   "unicode": 57488,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vjór",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vjór",
   "translation": "Vjor",
   "annotation": "das Volk hinter der Sprache"
 },
 {
   "symbol": "",
   "unicode": 57489,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "a",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "a",
   "translation": "Verb",
   "annotation": "Suffix"
 },
 {
   "symbol": "",
   "unicode": 57490,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "o",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "o",
   "translation": "Adjektiv",
   "annotation": "Suffix"
 },
 {
   "symbol": "",
   "unicode": 57491,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "e",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "e",
   "translation": "abstraktes Nomen",
   "annotation": "Suffix"
 },
 {
   "symbol": "",
   "unicode": 57492,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "v",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "v",
   "translation": "ja/richtig",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57493,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "k",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "k",
   "translation": "nein/nicht",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57494,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "é",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "é",
   "translation": "und",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57495,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "el",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "el",
   "translation": "oder",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57496,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "men",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "men",
   "translation": "aber",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57497,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ar",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ar",
   "translation": "",
   "annotation": "Plural-Suffix"
 },
 {
   "symbol": "",
   "unicode": 57498,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "læn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "læn",
   "translation": "links",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57499,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "hæn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "hæn",
   "translation": "rechts",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57500,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fræn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fræn",
   "translation": "vorne",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57501,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "bræn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "bræn",
   "translation": "hinten",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57502,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "óvæn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "óvæn",
   "translation": "oben",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57503,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ávæn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ávæn",
   "translation": "unten",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57504,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "lu",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "lu",
   "translation": "",
   "annotation": "grammatikalisches Bindeglied, verbindet die beiden umliegenden Einheiten miteinander zu einer Einheit"
 },
 {
   "symbol": "",
   "unicode": 57505,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "med",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "med",
   "translation": "mit",
   "annotation": "impliziert eine Unterordnung"
 },
 {
   "symbol": "",
   "unicode": 57506,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "plus",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "plus",
   "translation": "+/plus",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57507,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "mår",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "mår",
   "translation": "Wohlbefinden",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57508,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jæt",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jæt",
   "translation": "sehr",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57509,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sverij",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sverij",
   "translation": "Schweden",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57510,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tekst",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tekst",
   "translation": "Schriftart",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57511,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "set",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "set",
   "translation": "selbst/sich/eigen",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57512,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "kanš",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "kanš",
   "translation": "vielleicht",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57513,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ð",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ð",
   "translation": "Gegenteil",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57514,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "det",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "det",
   "translation": "das/dieses",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57515,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "het",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "het",
   "translation": "das hier/jetzt",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57516,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vár",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vár",
   "translation": "was",
   "annotation": "allgemeines Fragewort"
 },
 {
   "symbol": "",
   "unicode": 57517,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "h",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "h",
   "translation": "",
   "annotation": "binäres Fragewort"
 },
 {
   "symbol": "",
   "unicode": 57518,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vilk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vilk",
   "translation": "welches",
   "annotation": "selektives Fragewort"
 },
 {
   "symbol": "",
   "unicode": 57519,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "í",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "í",
   "translation": "in",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57520,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "víd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "víd",
   "translation": "bei",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57521,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nǽr",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nǽr",
   "translation": "nah",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57522,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "",
   "translation": "",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57523,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "lå",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "lå",
   "translation": "",
   "annotation": "grammatikalische Klammer auf"
 },
 {
   "symbol": "",
   "unicode": 57524,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "le",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "le",
   "translation": "",
   "annotation": "grammatikalische Klammer zu"
 },
 {
   "symbol": "",
   "unicode": 57525,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "šå",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "šå",
   "translation": "„",
   "annotation": "wie Anführungszeichen vorne"
 },
 {
   "symbol": "",
   "unicode": 57526,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "še",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "še",
   "translation": "",
   "annotation": "wie Anführungszeichen hinten"
 },
 {
   "symbol": "",
   "unicode": 57527,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "em",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "em",
   "translation": "ich",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57528,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "to",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "to",
   "translation": "du",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57529,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "peš",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "peš",
   "translation": "Mensch/Person",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57530,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nȧt",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nȧt",
   "translation": "etwas",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57531,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jőr",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jőr",
   "translation": "Tat/tun",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57532,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "kom",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "kom",
   "translation": "sich wohin bewegen",
   "annotation": "allgemein, kann zu Fuß, mit einem Fahrzeug oder anders sein, meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57533,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sæj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sæj",
   "translation": "Aussage/sagen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57534,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "prát",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "prát",
   "translation": "Gespräch/reden",
   "annotation": "oft in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57535,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "hár",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "hár",
   "translation": "haben",
   "annotation": "oft in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57536,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "gå",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "gå",
   "translation": "gehen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57537,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jé",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jé",
   "translation": "geben",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57538,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "t",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "t",
   "translation": "nehmen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57539,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sé",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sé",
   "translation": "sehen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57540,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vét",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vét",
   "translation": "Wissen/wissen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57541,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "skáj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "skáj",
   "translation": "sollen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57542,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "mȧst",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "mȧst",
   "translation": "Verpflichtung/müssen",
   "annotation": "oft in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57543,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "hőv",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "hőv",
   "translation": "brauchen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57544,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "kan",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "kan",
   "translation": "Fähigkeiten/können",
   "annotation": "oft in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57545,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "måj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "måj",
   "translation": "dürfen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57546,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vilj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vilj",
   "translation": "Wille/wollen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57547,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "hej",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "hej",
   "translation": "hallo/tschüss",
   "annotation": "Begrüßung und Verabschiedung"
 },
 {
   "symbol": "",
   "unicode": 57548,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tak",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tak",
   "translation": "danke/bitte",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57549,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fölåt",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fölåt",
   "translation": "Entschuldigung",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57550,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ušækt",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ušækt",
   "translation": "Verzeihung",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57551,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jil",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jil",
   "translation": "mögen",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57552,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "væn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "væn",
   "translation": "Freund",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57553,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "šǽr",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "šǽr",
   "translation": "Liebespartner/Liebe",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57554,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "bíl",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "bíl",
   "translation": "Fahrzeug",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57555,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nám",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nám",
   "translation": "Name",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57556,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "morf",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "morf",
   "translation": "Morphem",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57557,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "órd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "órd",
   "translation": "Wort",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57558,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "frás",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "frás",
   "translation": "Satz",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57559,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ǽg",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ǽg",
   "translation": "Besitz",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57560,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "hús",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "hús",
   "translation": "Haus",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57561,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "træd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "træd",
   "translation": "Baum",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57562,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jært",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jært",
   "translation": "Herz",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57563,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "dyŋ",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "dyŋ",
   "translation": "Kalendertag",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57564,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "dág",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "dág",
   "translation": "Tag/tagsüber",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57565,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nat",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nat",
   "translation": "Nacht",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57566,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "",
   "translation": "",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57567,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "",
   "translation": "",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57568,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tíd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tíd",
   "translation": "Zeit",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57569,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "bárn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "bárn",
   "translation": "Kind",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57570,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "mami",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "mamy",
   "translation": "Mama/Mutter",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57571,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "papi",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "papy",
   "translation": "Papa/Vater",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57572,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sysk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sysk",
   "translation": "Geschwister",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57573,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "m",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "m",
   "translation": "weiblich",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57574,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "p",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "p",
   "translation": "männlich",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57575,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "myk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "myk",
   "translation": "Menge/viel",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57576,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "stór",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "stór",
   "translation": "Größe/groß",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57577,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "br",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "br",
   "translation": "gut",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57578,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "plats",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "plats",
   "translation": "Ort",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57579,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ŝæl",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ŝæl",
   "translation": "Grund/Ursache",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57580,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sen",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sen",
   "translation": "Zukunft/später",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57581,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "för",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "för",
   "translation": "Vergangenheit/früher",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57582,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ælj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ælj",
   "translation": "Elch",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57583,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "rǽv",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "rǽv",
   "translation": "Fuchs",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57584,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "björn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "björn",
   "translation": "Bär",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57585,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tal",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tal",
   "translation": "Kiefer",
   "annotation": "Baum"
 },
 {
   "symbol": "",
   "unicode": 57586,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "björk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "björk",
   "translation": "Birke",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57587,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "gran",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "gran",
   "translation": "Fichte",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57588,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ren",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ren",
   "translation": "Rentier",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57589,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jort",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jort",
   "translation": "Hirsch",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57590,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "varj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "varj",
   "translation": "Wolf",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57591,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "språk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "språk",
   "translation": "Sprache",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57592,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "stád",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "stád",
   "translation": "Stadt",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57593,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "léd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "léd",
   "translation": "Führung",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57594,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "oks",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "oks",
   "translation": "auch",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57595,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jar",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jar",
   "translation": "Jar",
   "annotation": "logographische Schrift"
 },
 {
   "symbol": "",
   "unicode": 57596,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jæmn",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jæmn",
   "translation": "Jæmn",
   "annotation": "phonographische Schrift, für Namen"
 },
 {
   "symbol": "",
   "unicode": 57597,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "jæl",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "jæl",
   "translation": "Jæl",
   "annotation": "alte phonographische Schrift"
 },
 {
   "symbol": "",
   "unicode": 57598,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "latín",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "latín",
   "translation": "Latein",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57599,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "neg",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "neg",
   "translation": "negativ",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57600,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nol",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nol",
   "translation": "0",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57601,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "et",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "et",
   "translation": "1",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57602,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tȧv",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tȧv",
   "translation": "2",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57603,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ter",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ter",
   "translation": "3",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57604,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fyr",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fyr",
   "translation": "4",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57605,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fem",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fem",
   "translation": "5",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57606,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "sek",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "sek",
   "translation": "6",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57607,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ŝu",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ŝu",
   "translation": "7",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57608,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ȧt",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ȧt",
   "translation": "8",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57609,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ni",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ni",
   "translation": "9",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57610,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ti",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ti",
   "translation": "A",
   "annotation": "10"
 },
 {
   "symbol": "",
   "unicode": 57611,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "il",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "il",
   "translation": "B",
   "annotation": "11"
 },
 {
   "symbol": "",
   "unicode": 57612,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "tol",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "tol",
   "translation": "C",
   "annotation": "12"
 },
 {
   "symbol": "",
   "unicode": 57613,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ŝet",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ŝet",
   "translation": "D",
   "annotation": "13"
 },
 {
   "symbol": "",
   "unicode": 57614,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fju",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fju",
   "translation": "E",
   "annotation": "14"
 },
 {
   "symbol": "",
   "unicode": 57615,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "nȧv",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "nȧv",
   "translation": "F",
   "annotation": "15"
 },
 {
   "symbol": "",
   "unicode": 57616,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "köm",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "köm",
   "translation": ",",
   "annotation": "Komma"
 },
 {
   "symbol": "",
   "unicode": 57617,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ŋi",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ŋi",
   "translation": "",
   "annotation": "gibt an, wie oft die vorige Ziffer wiederholt wird"
 },
 {
   "symbol": "",
   "unicode": 57618,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "num",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "num",
   "translation": "Nummer",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57619,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ðöjf",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ðöjf",
   "translation": "unendlich",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57620,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "år",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "år",
   "translation": "Jahr",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57621,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "land",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "land",
   "translation": "Land",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57622,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "fóg",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "fóg",
   "translation": "Einfügung",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57623,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "ný",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "ný",
   "translation": "neu",
   "annotation": "meistens in Verbindung mit "
 },
 {
   "symbol": "",
   "unicode": 57624,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "lét",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "lét",
   "translation": "Suche",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57625,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "vejk",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "vejk",
   "translation": "Abbruch",
   "annotation": "kann für Abbruch, Rückzug und canceln allgemein verwendet werden"
 },
 {
   "symbol": "",
   "unicode": 57626,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "kort",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "kort",
   "translation": "Karte",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57627,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "indivíd",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "indivíd",
   "translation": "Individuum",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57628,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "famílj",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "famílj",
   "translation": "Familie",
   "annotation": ""
 },
 {
   "symbol": "",
   "unicode": 57629,
-  "transcriptionJamn": "",
-  "transcriptionLatein": "skrív",
+  "transcriptionJæmn": "",
+  "transcriptionLatin": "skrív",
   "translation": "Text/schreiben",
   "annotation": ""
 }
